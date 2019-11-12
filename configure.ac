@@ -441,11 +441,7 @@ AC_CHECK_HEADERS(m4_normalize([
 	sys/conf.h
 	sys/eventfd.h
 	sys/fanotify.h
-	sys/ipc.h
-	sys/msg.h
 	sys/quota.h
-	sys/sem.h
-	sys/shm.h
 	sys/signalfd.h
 	sys/xattr.h
 	ustat.h
